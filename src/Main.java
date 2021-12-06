@@ -3,7 +3,7 @@
 public class Main {
 	public static void main(String[] args) {
 		
-	MultuplyByNumberQueVemAfter mu = new MultuplyByNumberQueVemAfter();
+	MultiplyByNumberQueVemAfter mu = new MultiplyByNumberQueVemAfter();
 		
 		System.out.print(mu.digitoSeparado(75));
 }
